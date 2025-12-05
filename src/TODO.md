@@ -1,0 +1,21 @@
+- [x] Bencode/Bedecode
+- [] .torrent file parser
+    - [x] BEP-3
+    - [] BEP-0005
+    - [] BEP-0012
+    - [] BEP-0019
+    - [] BEP-0027
+    - [] (draft) BEP-0017
+    - [] (draft) BEP-0030
+    - [] BEP-0052 (BitTorrentv2)
+- [] Tracker Communication
+- [] Peer Communication
+- [] Peer state machine
+- [] Piece manager
+- [] File I/O and Disk layout
+- [] SHA-1 piece verification
+- [] Multi-peer download
+- [] Seeding
+- [] CLI Interface
+- [] Logging and Telemetry
+- [] Web UI
