@@ -8,7 +8,12 @@
     - [] (draft) BEP-0017
     - [] (draft) BEP-0030
     - [] BEP-0052 (BitTorrentv2)
+    - [] magnet links
 - [] Tracker Communication
+    - [x] Dict Peers
+    - [x] Compact peers
+    - [] UDP Trackers
+    - [] UDP extensions
 - [] Peer Communication
 - [] Peer state machine
 - [] Piece manager
